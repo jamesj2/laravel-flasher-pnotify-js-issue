@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    pnotify('asdfasfd0','success');
+    pnotify('No options message','success');
+    pnotify('Options message','success',["delay" => 1000]);
     return view('welcome');
 });

@@ -1,5 +1,6 @@
-import { default as Flasher } from '@flasher/flasher';
+window.Flasher = require('@flasher/flasher');
+
 import '@flasher/flasher-pnotify';
-window['Flasher'] = Flasher;
+import '@flasher/flasher-sweet-alert';
 
 require('./bootstrap');

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b7715383c63aa3ffde2d0b2adffc154b",
+    "content-hash": "c16ed8e24c958c45945da94b8c32e4f9",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1692,16 +1692,16 @@
         },
         {
             "name": "php-flasher/flasher",
-            "version": "v0.4.8",
+            "version": "v0.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher.git",
-                "reference": "6321dafa67fbcc8e3a324166843bfcaa1522fb75"
+                "reference": "87656987b75afc8f133647d82dc72e50182bdc65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher/zipball/6321dafa67fbcc8e3a324166843bfcaa1522fb75",
-                "reference": "6321dafa67fbcc8e3a324166843bfcaa1522fb75",
+                "url": "https://api.github.com/repos/php-flasher/flasher/zipball/87656987b75afc8f133647d82dc72e50182bdc65",
+                "reference": "87656987b75afc8f133647d82dc72e50182bdc65",
                 "shasum": ""
             },
             "require": {
@@ -1755,7 +1755,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-flasher/flasher/issues",
-                "source": "https://github.com/php-flasher/flasher/tree/v0.4.8"
+                "source": "https://github.com/php-flasher/flasher/tree/v0.4.11"
             },
             "funding": [
                 {
@@ -1775,26 +1775,26 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-05-09T17:18:48+00:00"
+            "time": "2021-08-22T00:27:46+00:00"
         },
         {
             "name": "php-flasher/flasher-laravel",
-            "version": "v0.4.8",
+            "version": "v0.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher-laravel.git",
-                "reference": "639f068b2c9a0f08885ddca1ac24ca79181a40e1"
+                "reference": "76f2f8170efc294f3561dab26667cb5103b20a94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher-laravel/zipball/639f068b2c9a0f08885ddca1ac24ca79181a40e1",
-                "reference": "639f068b2c9a0f08885ddca1ac24ca79181a40e1",
+                "url": "https://api.github.com/repos/php-flasher/flasher-laravel/zipball/76f2f8170efc294f3561dab26667cb5103b20a94",
+                "reference": "76f2f8170efc294f3561dab26667cb5103b20a94",
                 "shasum": ""
             },
             "require": {
                 "illuminate/support": "^4.0|^5.0|^6.0|^7.0|^8.0",
                 "php": ">=5.3",
-                "php-flasher/flasher": "^0.4"
+                "php-flasher/flasher": "^0.4.11"
             },
             "require-dev": {
                 "orchestra/testbench": "^2.0|^3.0|^4.0|^5.0|^6.0",
@@ -1854,7 +1854,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-flasher/flasher-laravel/issues",
-                "source": "https://github.com/php-flasher/flasher-laravel/tree/v0.4.8"
+                "source": "https://github.com/php-flasher/flasher-laravel/tree/v0.4.11"
             },
             "funding": [
                 {
@@ -1874,25 +1874,25 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-05-17T22:08:48+00:00"
+            "time": "2021-08-22T22:17:53+00:00"
         },
         {
             "name": "php-flasher/flasher-pnotify",
-            "version": "v0.4.8",
+            "version": "v0.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher-pnotify.git",
-                "reference": "8e8d691c754ead5eb28ff84ac23dee75f6f28df6"
+                "reference": "061e383443457528ae18ee705f2c8b5a7c824073"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher-pnotify/zipball/8e8d691c754ead5eb28ff84ac23dee75f6f28df6",
-                "reference": "8e8d691c754ead5eb28ff84ac23dee75f6f28df6",
+                "url": "https://api.github.com/repos/php-flasher/flasher-pnotify/zipball/061e383443457528ae18ee705f2c8b5a7c824073",
+                "reference": "061e383443457528ae18ee705f2c8b5a7c824073",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3",
-                "php-flasher/flasher": "^0.4"
+                "php-flasher/flasher": "^0.4.11"
             },
             "require-dev": {
                 "phpunit/phpunit": "^4.8|^5.0|^6.0|^7.0|^8.0|^9.0"
@@ -1935,7 +1935,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-flasher/flasher-pnotify/issues",
-                "source": "https://github.com/php-flasher/flasher-pnotify/tree/v0.4.8"
+                "source": "https://github.com/php-flasher/flasher-pnotify/tree/v0.4.11"
             },
             "funding": [
                 {
@@ -1955,26 +1955,26 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-05-09T17:01:02+00:00"
+            "time": "2021-08-22T22:17:53+00:00"
         },
         {
             "name": "php-flasher/flasher-pnotify-laravel",
-            "version": "v0.4.8",
+            "version": "v0.4.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-flasher/flasher-pnotify-laravel.git",
-                "reference": "9454642f49b12f03ecc96db17c9d6b554cf72c24"
+                "reference": "4cbe340045c85180197394ef62c0c6ea69f538d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-flasher/flasher-pnotify-laravel/zipball/9454642f49b12f03ecc96db17c9d6b554cf72c24",
-                "reference": "9454642f49b12f03ecc96db17c9d6b554cf72c24",
+                "url": "https://api.github.com/repos/php-flasher/flasher-pnotify-laravel/zipball/4cbe340045c85180197394ef62c0c6ea69f538d1",
+                "reference": "4cbe340045c85180197394ef62c0c6ea69f538d1",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3",
-                "php-flasher/flasher-laravel": "^0.4",
-                "php-flasher/flasher-pnotify": "^0.4"
+                "php-flasher/flasher-laravel": "^0.4.11",
+                "php-flasher/flasher-pnotify": "^0.4.11"
             },
             "require-dev": {
                 "orchestra/testbench": "^2.0|^3.0|^4.0|^5.0|^6.0",
@@ -2033,7 +2033,7 @@
             ],
             "support": {
                 "issues": "https://github.com/php-flasher/flasher-pnotify-laravel/issues",
-                "source": "https://github.com/php-flasher/flasher-pnotify-laravel/tree/v0.4.8"
+                "source": "https://github.com/php-flasher/flasher-pnotify-laravel/tree/v0.4.11"
             },
             "funding": [
                 {
@@ -2053,7 +2053,186 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-05-09T17:01:02+00:00"
+            "time": "2021-08-22T22:17:53+00:00"
+        },
+        {
+            "name": "php-flasher/flasher-sweet-alert",
+            "version": "v0.4.11",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-flasher/flasher-sweet-alert.git",
+                "reference": "168d083e3872bef59f38101c4ada6cf5647c6cd7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-flasher/flasher-sweet-alert/zipball/168d083e3872bef59f38101c4ada6cf5647c6cd7",
+                "reference": "168d083e3872bef59f38101c4ada6cf5647c6cd7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "php-flasher/flasher": "^0.4.11"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^4.8|^5.0|^6.0|^7.0|^8.0|^9.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Flasher\\SweetAlert\\Prime\\": ""
+                },
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Younes Khoubza",
+                    "email": "younes.khoubza@gmail.com",
+                    "homepage": "https://github.com/yoeunes",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP Flasher adapter for Sweet Alert 2",
+            "homepage": "https://php-flasher.github.io/",
+            "keywords": [
+                "alerts",
+                "laravel",
+                "lumen",
+                "messages",
+                "notifications",
+                "notify",
+                "php",
+                "pnotify",
+                "sweetalert",
+                "symfony"
+            ],
+            "support": {
+                "issues": "https://github.com/php-flasher/flasher-sweet-alert/issues",
+                "source": "https://github.com/php-flasher/flasher-sweet-alert/tree/v0.4.11"
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.com/paypalme/yoeunes",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://ko-fi.com/yoeunes",
+                    "type": "ko_fi"
+                },
+                {
+                    "url": "https://opencollective.com/php-flasher",
+                    "type": "open_collective"
+                },
+                {
+                    "url": "https://www.patreon.com/yoeunes",
+                    "type": "patreon"
+                }
+            ],
+            "time": "2021-08-22T22:17:53+00:00"
+        },
+        {
+            "name": "php-flasher/flasher-sweet-alert-laravel",
+            "version": "v0.4.11",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-flasher/flasher-sweet-alert-laravel.git",
+                "reference": "dc7c6a3b68437cdd46f292ee03787a1d7aed4f7e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-flasher/flasher-sweet-alert-laravel/zipball/dc7c6a3b68437cdd46f292ee03787a1d7aed4f7e",
+                "reference": "dc7c6a3b68437cdd46f292ee03787a1d7aed4f7e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3",
+                "php-flasher/flasher-laravel": "^0.4.11",
+                "php-flasher/flasher-sweet-alert": "^0.4.11"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^2.0|^3.0|^4.0|^5.0|^6.0",
+                "phpunit/phpunit": "^4.8|^5.0|^6.0|^7.0|^8.0|^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Flasher\\SweetAlert\\Laravel\\FlasherSweetAlertServiceProvider"
+                    ],
+                    "aliases": {
+                        "SweetAlert": "Flasher\\SweetAlert\\Laravel\\Facade\\SweetAlert"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Flasher\\SweetAlert\\Laravel\\": ""
+                },
+                "files": [
+                    "Resources/functions/sweetAlert.php"
+                ],
+                "exclude-from-classmap": [
+                    "/Tests/"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Younes Khoubza",
+                    "email": "younes.khoubza@gmail.com",
+                    "homepage": "https://github.com/yoeunes",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PHP Flasher Laravel adapter for Sweet Alert 2",
+            "homepage": "https://php-flasher.github.io/",
+            "keywords": [
+                "alerts",
+                "bundle",
+                "flex",
+                "laravel",
+                "lumen",
+                "messages",
+                "notifications",
+                "notify",
+                "php",
+                "pnotify",
+                "sweet alert",
+                "symfony",
+                "toastr",
+                "yoeunes"
+            ],
+            "support": {
+                "issues": "https://github.com/php-flasher/flasher-sweet-alert-laravel/issues",
+                "source": "https://github.com/php-flasher/flasher-sweet-alert-laravel/tree/v0.4.11"
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.com/paypalme/yoeunes",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://ko-fi.com/yoeunes",
+                    "type": "ko_fi"
+                },
+                {
+                    "url": "https://opencollective.com/php-flasher",
+                    "type": "open_collective"
+                },
+                {
+                    "url": "https://www.patreon.com/yoeunes",
+                    "type": "patreon"
+                }
+            ],
+            "time": "2021-08-22T22:17:53+00:00"
         },
         {
             "name": "phpoption/phpoption",

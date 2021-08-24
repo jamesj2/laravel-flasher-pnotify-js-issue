@@ -14,7 +14,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    pnotify('No options message','success');
-    pnotify('Options message','success',["delay" => 1000]);
+    pnotify('From Pnotify','success');
+    pnotify('From Pnotify with options','success', ['delay' => 1000]);
+
+    sweetAlert('From Sweet Alert 1','success');
+    sweetAlert('From Sweet Alert 2','info');
+
     return view('welcome');
 });
